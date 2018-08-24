@@ -21,7 +21,6 @@ $ git clone https://github.com/annaszalkiewicz/portfolio-page
 
 ## Dependencies
 
-* Started code has been provided by Udacity.
 * [Font Montserrat on Google](https://fonts.google.com/specimen/Montserrat)
 * [FontAwesome](https://fontawesome.com/)
 
