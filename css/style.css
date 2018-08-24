@@ -82,9 +82,9 @@ body {
   box-shadow: 0 0 1em #d2d2d2;
 }
 
-.hire-me:hover {
+.hire-me:hover, .hire-me:focus {
   cursor: pointer;
-  box-shadow: 0 0 0.2em #d2d2d2;
+  box-shadow: 0 0 0.2em #353434;
 }
 
 a {
@@ -168,6 +168,11 @@ a {
   display: block;
   min-width: 9em;
   max-width: 11em;
+}
+
+.codepen-link:hover, .direct-link:hover, .codepen-link:focus, .direct-link:focus {
+  box-shadow: 0 0 20px #353434;
+  transition: all 0.3s ease;
 }
 
 .scale {
